@@ -1,0 +1,25 @@
+# Виртуальное окружение Python
+.venv/
+venv/
+.env
+
+# Системные файлы macOS
+.DS_Store
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Настройки редактора
+.vscode/
+
+# Временные файлы
+*.log
+
+# Секреты и переменные окружения
+.env.*
+!.env.example
